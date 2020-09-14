@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M1Uf1Xq7gXO2t/o6J+FJI7iQnf+UUtGDi4gvk9/G7/0Co3VBUBL1gK3Oo/c+8pDm0yrxmYNVCEOYFMZK/lPf7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oliva\\source\\repos\\MyWebApplication\\MyWebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oliva\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

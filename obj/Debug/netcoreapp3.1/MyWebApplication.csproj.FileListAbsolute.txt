@@ -1,0 +1,9 @@
+C:\Users\oliva\source\repos\MyWebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\oliva\source\repos\MyWebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\oliva\source\repos\MyWebApplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\MyWebApplication.csprojAssemblyReference.cache
+C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\MyWebApplication.AssemblyInfoInputs.cache
+C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\MyWebApplication.AssemblyInfo.cs
+C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\MyWebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\staticwebassets\MyWebApplication.StaticWebAssets.Manifest.cache
+C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\staticwebassets\MyWebApplication.StaticWebAssets.xml
