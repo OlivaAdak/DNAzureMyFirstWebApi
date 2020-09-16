@@ -22,7 +22,7 @@ namespace MyWebApplication.Controllers
         {
             _logger = logger;
         }
-
+        //Comment for changes
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {

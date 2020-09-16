@@ -7,3 +7,14 @@ C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\MyWebApplic
 C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\MyWebApplication.RazorTargetAssemblyInfo.cache
 C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\staticwebassets\MyWebApplication.StaticWebAssets.Manifest.cache
 C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\staticwebassets\MyWebApplication.StaticWebAssets.xml
+C:\Users\oliva\source\repos\MyWebApplication\bin\Debug\netcoreapp3.1\MyWebApplication.exe
+C:\Users\oliva\source\repos\MyWebApplication\bin\Debug\netcoreapp3.1\MyWebApplication.deps.json
+C:\Users\oliva\source\repos\MyWebApplication\bin\Debug\netcoreapp3.1\MyWebApplication.runtimeconfig.json
+C:\Users\oliva\source\repos\MyWebApplication\bin\Debug\netcoreapp3.1\MyWebApplication.runtimeconfig.dev.json
+C:\Users\oliva\source\repos\MyWebApplication\bin\Debug\netcoreapp3.1\MyWebApplication.dll
+C:\Users\oliva\source\repos\MyWebApplication\bin\Debug\netcoreapp3.1\MyWebApplication.pdb
+C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\MyWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\MyWebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\MyWebApplication.dll
+C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\MyWebApplication.pdb
+C:\Users\oliva\source\repos\MyWebApplication\obj\Debug\netcoreapp3.1\MyWebApplication.genruntimeconfig.cache

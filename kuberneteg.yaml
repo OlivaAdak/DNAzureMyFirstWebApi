@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kubernetdeploy
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: MyWebApplication
+  template:
+    metadata:
+      labels:
+        app: MyWebApplication
+    spec:
+      containers:
+      - name: samplerepos
+        image: kubernetegacr.azurecr.io/samplerepos:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: configsn
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: mywebapplication
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: MyWebApplication
